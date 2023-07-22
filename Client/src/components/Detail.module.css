@@ -1,0 +1,17 @@
+.contenedor {
+    width: 30%;
+    position: relative;
+    background-color: rgb(104, 101, 101);
+    padding: 5px 10px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    height: 100%;
+    color:rgb(128, 190, 245);
+    border: 1px solid rgb(31, 130, 223);
+    transition: all 0.6s ease-in-out;
+    overflow: hidden  ;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}
+

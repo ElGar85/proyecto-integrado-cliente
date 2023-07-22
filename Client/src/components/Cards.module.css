@@ -1,0 +1,17 @@
+.contenedor_cards {
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 40px;
+    align-items: center;
+    align-content: center;
+    padding: 10px 10px;
+    margin: 10px auto;
+    margin-top:30px;
+    
+    justify-content: space-between;
+    
+}
+
+
+

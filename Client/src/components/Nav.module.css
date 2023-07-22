@@ -1,0 +1,29 @@
+.contenedorNav {
+    margin-top: 10px;
+    height: 40px;
+    background-color: rgb(51, 155, 247, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    
+}
+
+.links {
+    text-decoration: none;
+    width: 150px;
+    color: rgb(128, 190, 245);
+    background-color: rgb(92, 84, 84,0.7);
+    padding: 10px 10px;
+    border-radius: 20px;
+    transition: all 0.6s ease-in-out;
+}
+
+.links:hover {
+    
+    color: rgb(92, 84, 84);
+    background-color: rgb(128, 190, 245, 0.7);
+    box-shadow: 0 0px 15px  rgba(0, 0, 0, 0.5);
+    transition: all 0.6s ease-in-out;
+
+}
